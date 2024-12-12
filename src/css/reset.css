@@ -24,6 +24,7 @@ a {
 }
 
 button {
+  display: block;
   cursor: pointer;
 }
 
@@ -31,4 +32,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+li {
+  list-style: none;
 }
